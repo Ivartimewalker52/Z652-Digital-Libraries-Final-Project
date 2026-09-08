@@ -9,8 +9,8 @@ The scope of the digital collection is to be determined. The current ideas are t
 2. Collection of historical photographs of Indiana landmarks
 3. Collection of 19th century Indiana state government publications
 
-
-
+### Return to the homepage:
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 # CollectionBuilder-GH
 
